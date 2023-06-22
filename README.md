@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aeldar
 - 👀 I’m interested in Frontend and Functional Programming
-- 🌱 I’m currently learning Rust and Python
+- 🌱 I'd gladly participate in a Rust or Haskell based project as a frontend/full stack
 - 💞️ I’m looking to collaborate on Cardano projects
 - 📫 How to reach me: https://www.linkedin.com/in/eldaraliyev/
 
